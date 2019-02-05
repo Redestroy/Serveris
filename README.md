@@ -1,0 +1,2 @@
+# Serveris
+Projekta autors: Krišjānis
