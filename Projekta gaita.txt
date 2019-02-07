@@ -1,0 +1,50 @@
+﻿Projekta gaita:
+1. Apraksts
+Projektu apraksta dabīgajā valodā. Balstoties uz šo
+aprakstu tiek veikts tālākais darbs. Aprakstam vajadzētu
+dot atbildes uz šādiem jautājumiem:
+	- Kāds ir projekta mērķis?
+	- Kas būs no projekta darbības iegūtais produkts?
+	- Kāds ir iegūtais produkts?
+	- Kā cilvēki lietos iegūto produktu?
+	- No kā sastāv iegūtais produkts?
+2. Projekta saišu diagramma
+Izveido balstoties uz projekta aprakstu. Diagrammā parādītas
+projekta daļas un saistība starp projekta daļām. Diagramma ir
+detalizētāka par projekta aprakstu, bet tajā bieži vien būs 
+vajadzīgas izmaiņas.
+Projekta daļu jeb objektu savieno ar bultiņām ar citiem projekta
+objektiem. Katrs objekts saistās ar vismaz 1 citu objektu. Ja 
+netiek no objekta aizvilkta vismaz viena saistība, var uzskatīt, 
+ka objekts saistās ar gandrīz visiem objektiem.
+3. Prasību definēšana
+Prasības tiek definētas, balstoties uz
+	- projekta kopējām prasībām
+	- objektu prasībām
+	- produkta funkcionalitāti
+	- lietotāja pieredzi izmantojot produktu
+Izveido 4 prasību līmeņus:
+	- Minimum viable product
+	- Basic product
+	- Optimal product
+	- Ideal product
+4. Darba plānošana
+Darbu plāno atbilstoši prasībām. Sākumā veic uzdevumus, kuri vajadzīgi,
+lai izveidotu Minimal viable product, tad basic product, tad optimal 
+product un visbeidzot Ideal product. Ja darbs nav vajadzīgs kādu 
+prasību izpildei, darbu neveic (Ja tomēr darbs ir nepieciešams, 
+sākumā izmaina prasības, diagrammu un aprakstu).
+Projektu sadala mazākos uzdevumos tā, lai būtu vienu uzdevumu pabegt
+vienas nodarbības laikā.
+5. Darbs
+Sastāv no trīs daļām:
+	- Veidošana
+	- Testēšana
+	- Atkļūdošana
+Darba laikā 
+6(a. Ja ir izveidots gatavs produkts - publicēšana
+6(b. Ja nav izveidots gatavs produkts - atgriežas vienā no pirmajiem
+pieciem soļiem.
+
+Gatavs produkts ir izveidots, ja tas atbilst vismaz vienam no prasību
+līmeņiem.
